@@ -1,4 +1,4 @@
-# PACKAGENAME
+# MyLibrary
 
 A description of this package.
 
@@ -8,4 +8,4 @@ AUTHOR_NAME, AUTHOR_EMAIL
 
 ## License
 
-PACKAGENAME is available under the MIT license. See the LICENSE file for more info.
+MyLibrary is available under the MIT license. See the LICENSE file for more info.
