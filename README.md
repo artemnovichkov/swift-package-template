@@ -1,6 +1,6 @@
 # MyLibrary
 ![Swift 5.1](https://img.shields.io/badge/Swift-5.1-orange.svg) 
-![Swift Package Manager](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat) 
+[![SPM](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)](https://github.com/apple/swift-package-manager)
 
 A description of this package.
 
